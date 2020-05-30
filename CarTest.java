@@ -28,7 +28,7 @@ public class CarTest {
 	@Before
 	public void setUp() throws Exception {
 		System.out.println("Before");
-		expectedWheels = 4;
+		expectedWheels = 6;
 		myCar = new Car();
 	}
 
